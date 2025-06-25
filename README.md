@@ -8,7 +8,7 @@ This repository documents my C++ algorithm learning journey with a focus on:
 
 - 📌 Progressive problem-solving from brute-force to optimized solutions
 - 🧠 Algorithmic thinking and template building
-- 🏹 Daily practice inspired by [Daima Suixianglu](https://github.com/youngyangyang04/leetcode-master)
+- 🏹 Daily practice inspired by [代码随想录](https://github.com/youngyangyang04/leetcode-master)
 
 ---
 
