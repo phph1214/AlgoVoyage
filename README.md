@@ -12,21 +12,15 @@ This repository documents my C++ algorithm learning journey with a focus on:
 
 ---
 
-## 📅 Daily Progress · 每日题解记录
+## 📅 Daily Training Index
 
-| Day | Topic | Problem | 中文说明 |
-|-----|-------|---------|----------|
-| 1 | Array | Two Sum | 数组基础题，双重循环/哈希优化 |
-| 2 | Binary Search | Search Insert Position | 二分模板构建 |
-| 3 | DP | Climbing Stairs | 动态规划入门，斐波那契 |
+| Day | Title | Link |
+|-----|-------|------|
+| Day 01 | Two Sum | [笔记](./daily/Day01_TwoSum.md) / [代码](./cpp_code/Day01_TwoSum.cpp) |
+| Day 02 | Remove Element | [笔记](./daily/Day02_RemoveElement.md) / [代码](./cpp_code/Day02_RemoveElement.cpp) |
+| Day 03 | Binary Search | [笔记](./daily/Day03_BinarySearch.md) / [代码](./cpp_code/Day03_BinarySearch.cpp) |
 
----
-
-## 🧠 Learning Philosophy · 学习理念
-
-> “刷题是过程，理解才是目的。”
-
-我不是为了刷题而刷题，而是希望通过题目掌握解题模式、优化思路，并记录每一次“从不会到会”的进化过程。
+> 每日更新一题，记录题意、思路、代码优化过程（中英结合）
 
 ---
 
@@ -35,3 +29,11 @@ This repository documents my C++ algorithm learning journey with a focus on:
 - [代码随想录 GitHub](https://github.com/youngyangyang04/leetcode-master)
 - [Leetcode](https://leetcode.com/)
 - [CP-Algorithms](https://cp-algorithms.com/)
+
+---
+
+## 🛠 环境说明
+
+- Language: C++
+- 编辑器：VSCode / CLion
+- 编译：g++ 17+
