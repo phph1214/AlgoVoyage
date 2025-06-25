@@ -17,8 +17,6 @@ This repository documents my C++ algorithm learning journey with a focus on:
 | Day | Title | Link |
 |-----|-------|------|
 | Day 01 | Two Sum | [笔记](./daily/Day01_TwoSum.md) / [代码](./cpp_code/Day01_TwoSum.cpp) |
-| Day 02 | Remove Element | [笔记](./daily/Day02_RemoveElement.md) / [代码](./cpp_code/Day02_RemoveElement.cpp) |
-| Day 03 | Binary Search | [笔记](./daily/Day03_BinarySearch.md) / [代码](./cpp_code/Day03_BinarySearch.cpp) |
 
 > 每日更新当日所学，记录题意、思路、代码优化过程
 
