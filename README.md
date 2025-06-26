@@ -16,7 +16,7 @@ This repository documents my C++ algorithm learning journey with a focus on:
 
 | Day | Title | Link |
 |-----|-------|------|
-| Day 01 | Two Sum | [笔记](./daily/Day01_TwoSum.md) / [代码](./cpp_code/Day01_TwoSum.cpp) |
+| Day 01 | 二分查找、移除元素（双指针）、有序数组的平方（双指针） | [笔记](./Day01.md)|
 
 > 每日更新当日所学，记录题意、思路、代码优化过程
 
