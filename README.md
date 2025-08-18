@@ -17,6 +17,9 @@ This repository documents my C++ algorithm learning journey with a focus on:
 | Day | Title | Link |
 |-----|-------|------|
 | Day 01 | 二分查找、移除元素（双指针）、有序数组的平方（双指针） | [笔记](./Day01.md)|
+| Day 02 | 暂无 | [笔记](./Day02.md)|
+
+
 
 > 每日更新当日所学，记录题意、思路、代码优化过程
 
