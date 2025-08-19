@@ -17,7 +17,7 @@ This repository documents my C++ algorithm learning journey with a focus on:
 | Day | Title | Link |
 |-----|-------|------|
 | Day 01 | 二分查找、移除元素（双指针）、有序数组的平方（双指针） | [笔记](./Day01.md)|
-| Day 02 | 暂无 | [笔记](./Day02.md)|
+| Day 02 | 最短子数组、螺旋矩阵、区间和、开发商购买土地 | [笔记](./Day02.md)|
 
 
 
