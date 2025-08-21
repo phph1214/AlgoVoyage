@@ -19,7 +19,7 @@ This repository documents my C++ algorithm learning journey with a focus on:
 | Day 01 | 二分查找、移除元素（双指针）、有序数组的平方（双指针） | [笔记](./Day01.md)|
 | Day 02 | 最短子数组、螺旋矩阵、区间和、开发商购买土地 | [笔记](./Day02.md)|
 | Day 03 | 移除链表元素、设计链表、反转链表| [笔记](./Day03.md)|
-
+| Day 04 | 两两交换链表中的节点、删除链表的倒数第N个节点、链表相交| [笔记](./Day04.md)|
 
 > 每日更新当日所学，记录题意、思路、代码优化过程
 
