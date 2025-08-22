@@ -20,6 +20,7 @@ This repository documents my C++ algorithm learning journey with a focus on:
 | Day 02 | 最短子数组、螺旋矩阵、区间和、开发商购买土地 | [笔记](./Day02.md)|
 | Day 03 | 移除链表元素、设计链表、反转链表| [笔记](./Day03.md)|
 | Day 04 | 两两交换链表中的节点、删除链表的倒数第N个节点、链表相交| [笔记](./Day04.md)|
+| Day 05 | 有效的字母异同位、两个数组的交集、快乐数、两数之和| [笔记](./Day05.md)|
 
 > 每日更新当日所学，记录题意、思路、代码优化过程
 
