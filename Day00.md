@@ -5,7 +5,7 @@
 ### 题目描述
 ---
 
-> Leetcode 链接：[https://leetcode.cn/problems/binary-search/](https://leetcode.cn/problems/binary-search/)
+> Leetcode 链接：[]()
 ---
 
 ### 题解
